@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! 👋 Soy Eliana Kaye</h1>
 
-🌟 Desarrolladora Web Frontend de Argentina  
-🎓 Certificada por Google en Diseño de Interfaces de Usuario (UI)  
+🌟 Desarrolladora Web Frontend junior
+🎓 Certificada por Google en Diseño de Interfaces de Usuario (UI)  / Tec.superior en programacion instituto Teclab
 💻 Apasionada por crear experiencias digitales que se vean y se sientan bien  
 🚀 Siempre aprendiendo: actualmente explorando TailwindCSS y Vite  
 🎨 Amante del diseño limpio, el código elegante y... ¡la luna! 🌙
