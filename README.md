@@ -33,9 +33,9 @@
 
 ### 💼 Proyectos destacados
 
-- 🌟 [Portfolio principal](https://github.com/ElianaKaye/portfolio)
-- 🛍️ [Tienda Oli - Ecommerce](https://github.com/ElianaKaye/tienda-oli)
-- 💌 [Formulario de contacto](https://github.com/ElianaKaye/contact-form)
+- 🌟 [Portfolio principal](https://github.com/EliKaye/portfolio)
+- 🛍️ [Tienda Oli - Ecommerce](https://github.com/EliKaye/tienda-oli)
+- 💌 [Formulario de contacto](https://github.com/EliKaye/contact-form)
 - 🌠 Otros en camino...
 
 ---
