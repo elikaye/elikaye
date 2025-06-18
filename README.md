@@ -31,26 +31,17 @@
 
 ---
 
-### 💼 Proyectos destacados
-
-- 🌟 [Portfolio principal](https://github.com/EliKaye/portfolio)
-- 🛍️ [Tienda Oli - Ecommerce](https://github.com/EliKaye/tienda-oli)
-- 💌 [Formulario de contacto](https://github.com/EliKaye/contact-form)
-- 🌠 Otros en camino...
-
----
-
 ### 📈 Mis estadísticas en GitHub
 
-![Eliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElianaKaye&show_icons=true&theme=dracula)
+![Eliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliKaye&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElianaKaye&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliKaye&layout=compact&theme=dracula)
 
 ---
 
 ### 📫 Contacto
 
-- 🌐 [Mi Portfolio](https://tuportfolio.com) *(si tenés uno online)*
+- 🌐 [Mi Portfolio](https://tuportfolio.com) 
 - 💼 [LinkedIn](www.linkedin.com/in/eliana-kaye-70b5a524a)
 - 📧 elianakaye13@gmail.com
 
