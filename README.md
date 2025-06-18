@@ -27,7 +27,7 @@
   <img src="https://raw.githubusercontent.com/ElianaKaye/ElianaKaye/main/luna.gif" width="300px" alt="luna animada"/>
 </p>
 
-*Amante de la noche, las estrellas y el diseño con alma.*
+
 
 ---
 
@@ -51,8 +51,8 @@
 ### 📫 Contacto
 
 - 🌐 [Mi Portfolio](https://tuportfolio.com) *(si tenés uno online)*
-- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)
-- 📧 elianakaye.dev@gmail.com
+- 💼 [LinkedIn](www.linkedin.com/in/eliana-kaye-70b5a524a)
+- 📧 elianakaye13@gmail.com
 
 ---
 
