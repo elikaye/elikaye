@@ -47,4 +47,4 @@
 
 ---
 
-> _"Cree en tu código. Cree en tu diseño. Y, sobre todo, cree en vos."_ ✨
+> _"</CodeMoon🌙>"_ ✨
