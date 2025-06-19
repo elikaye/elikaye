@@ -24,7 +24,7 @@
 ### 🌙 Imagen que me representa
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ElianaKaye/ElianaKaye/main/luna.gif" width="300px" alt="luna animada"/>
+  <img src="https://raw.githubusercontent.com/ElianaKaye/ElianaKaye/main/michiChat" width="300px" alt="michi"/>
 </p>
 
 
