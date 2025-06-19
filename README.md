@@ -24,7 +24,7 @@
 ### 🌙 Imagen que me representa
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ElianaKaye/ElianaKaye/main/michiChat" width="300px" alt="michi"/>
+  <img src="https://raw.githubusercontent.com/ElianaKaye/ElianaKaye/main/michiChat.png" width="300px" alt="michi"/>
 </p>
 
 
